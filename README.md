@@ -54,12 +54,12 @@ I am a **MERN Stack Developer** and a **BCA student at GLA University**, passion
 ## 📚 Education
 - **BCA (Bachelor of Computer Applications)**  
   - **University**: GLA University, Mathura  
-  - **CGPA**: 8.27/10 (Expected Graduation: 2026)  
+  - **CGPA**: 8.32/10 (Expected Graduation: 2026)  
   - **Key Skills**: Full-stack development, Problem-solving, Team collaboration, Time management.
 
 ## 📬 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/amangupta-a11a672ab/)  
-- [Portfolio](https://your-portfolio-link.vercel.app/)  
+- [Portfolio](https://aman-gupta-seven.vercel.app/)  
 - Email: amangupta121@gmail.com  
 - GitHub: [amangupta121](https://github.com/amangupta121)
 
