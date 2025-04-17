@@ -1,73 +1,80 @@
-# Hi there, I'm Aman Gupta 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amanbhai1.amanbhai1" />
 
-I am a **MERN Stack Developer** and a **BCA student at GLA University**, passionate about creating impactful web applications and solving real-world problems. With expertise in modern web technologies, I aim to leverage my skills in building scalable and efficient solutions for a variety of projects.
-
-## 🚀 Technologies & Tools
-- **Frontend**: React.js, Next.js, Tailwind CSS, JavaScript, TypeScript
-- **Backend**: Node.js, Express.js, MongoDB, Mongoose, Prisma ORM
-- **Authentication**: JWT, OAuth, Session-based Authentication
-- **State Management**: React Context API, Redux, Zustand
-- **Real-time Communication**: WebSockets (Socket.io), Server-Sent Events (SSE)
-- **Caching & Optimization**: Redis, Vercel, Cloudflare
-- **DevOps & Deployment**: Docker, Kubernetes, CI/CD (GitHub Actions, Vercel, AWS, GCP)
-- **Testing**: Jest, Cypress, Playwright
-- **APIs & Integrations**: RESTful APIs, GraphQL, Webhooks, Payment Gateways (Stripe, PayPal)
-
-## 🏆 Achievements & Recognition
-- **Smart India Hackathon Finalist (2024)**  
-  - **Project**: **RoutePulse** – Automatic Bus Scheduling and Route Management
-  - Role: Backend Lead
-  - Technology: MERN Stack
-
-- **Hackvision 2024 – 1st Division (Nov 2024)**  
-  - **Project**: **Grow Together** – Collaborative Learning Platform for students and professionals
-  - Role: Full Stack Developer
-  - Technology: MERN Stack
-
-- **BCA (Bachelor of Computer Applications)** at GLA University, Expected Graduation: 2026
-- **Certifications**:
-  - **HTML & CSS**: The Cisco ThinggQbtor Program
-  - **Microsoft Word, Excel, PowerPoint**: Udemy
-
-## 📦 Key Projects
-
-### 1. **RoutePulse** (Aug 2024)
-- **Tech Stack**: React.js, Node.js, Express, MongoDB
-- **Description**: An automated bus scheduling and route management system, designed to optimize campus transportation.
-- **Role**: Backend Lead – Developed APIs, designed database schema, and integrated features to improve scheduling efficiency.
-
-### 2. **Lost & Found Cell** (Jan 2025)
-- **Tech Stack**: React.js, Node.js, Express, MongoDB
-- **Description**: A centralized platform for managing lost and found items at universities, making the process seamless for both students and staff.
-- **Role**: Full Stack Developer – Built the frontend and backend, integrated item management, and claim functionality.
-
-### 3. **Grow Together** (Nov 2024)
-- **Tech Stack**: MERN Stack (MongoDB, Express, React, Node.js)
-- **Description**: A platform for students and professionals to connect, learn, and grow through chatrooms, collaborative document editing, and live video sessions.
-- **Role**: Full Stack Developer – Worked on both frontend and backend, implementing key features such as real-time communication and progress tracking.
-
-## 🌱 Currently Exploring
-- **Next.js**: Server-side rendering and static site generation for React.
-- **TypeScript**: Enhancing JavaScript with static typing for better code maintainability.
-- **Clean Architecture**: Focusing on writing scalable, maintainable code for long-term projects.
-
-## 📚 Education
-- **BCA (Bachelor of Computer Applications)**  
-  - **University**: GLA University, Mathura  
-  - **CGPA**: 8.32/10 (Expected Graduation: 2026)  
-  - **Key Skills**: Full-stack development, Problem-solving, Team collaboration, Time management.
-
-## 📬 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/amangupta-a11a672ab/)  
-- [Portfolio](https://aman-gupta-seven.vercel.app/)  
-- Email: amangupta121@gmail.com  
-- GitHub: [amangupta121](https://github.com/amanbhai1)
-
-## 📊 GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanbhai1&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aman+Gupta+%F0%9F%91%8B;MERN+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;BCA+Student+@+GLA+University;Smart+India+Hackathon+Finalist+%F0%9F%8F%86" alt="Typing SVG" />
+</h1>
 
 ---
 
-### Feel free to explore my repositories, check out my projects, and connect with me if you're interested in collaborating or just want to chat about tech! 😄
+## 💫 About Me
+
+- 🎓 **BCA Student @ GLA University** | CGPA: `8.32/10`  
+- 💻 **MERN Stack Developer** | Backend Lead @ Smart India Hackathon Finalist Team  
+- 🧠 Learning: `Next.js`, `TypeScript`, `Clean Architecture`  
+- 🏆 **Hackvision Winner** | **SIH Finalist**  
+- 📍 From Sikandra Rao, Hathras, Uttar Pradesh  
+- 📫 Reach me: `amangupta121@gmail.com` | [LinkedIn](https://www.linkedin.com/in/amangupta-a11a672ab/) | [Portfolio](https://aman-gupta-seven.vercel.app/)  
+- 🔗 GitHub: [amanbhai1](https://github.com/amanbhai1)
+
+---
+
+## 🚀 Skills & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,ts,tailwind,git,github,vscode,vercel,docker" /><br/>
+</div>
+
+---
+
+## 🏗️ Projects
+
+- 🔧 **RoutePulse** – *Automatic Bus Scheduling & Route Management*  
+  `React.js | Node.js | Express | MongoDB`  
+  🛠 Backend Lead, built secure APIs and real-time features.
+
+- 🎒 **Lost & Found Cell** – *Centralized Lost-Item Tracking System for Universities*  
+  `MERN Stack` | Handled both frontend & backend.
+
+- 🤝 **Grow Together** – *Collaborative Learning Platform*  
+  `Full Stack` | Chat, Docs, Groups, Video Calls, etc.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amanbhai1&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanbhai1&layout=compact&theme=radical&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amanbhai1&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 📜 Achievements
+
+- 🏆 **Smart India Hackathon Finalist 2024** – RoutePulse  
+- 🥇 **Hackvision Winner 2024** – Grow Together  
+- 💼 **Intern @ Cloud Quest** – MERN Stack, RESTful APIs, Team Collaboration  
+- 📚 Certifications:  
+  - ✅ HTML & CSS – Cisco ThinggQbtor Program  
+  - ✅ Microsoft Word, Excel, PowerPoint – Udemy  
+
+---
+
+## 🧠 Currently Exploring
+
+- 🧩 Advanced `Next.js` features & hybrid rendering  
+- 🛠 `TypeScript` for large-scale apps  
+- 🧱 `Clean Architecture` for scalable backend systems  
+
+---
+
+> 💬 “Let's build something meaningful. Open to collaborations and fun side projects!”  
+> Connect with me on [LinkedIn](https://www.linkedin.com/in/amangupta-a11a672ab/) 💼 or mail me at `amangupta121@gmail.com` 📩  
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+*Drop a ⭐ on the repositories you like.*
 
