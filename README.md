@@ -61,7 +61,7 @@ I am a **MERN Stack Developer** and a **BCA student at GLA University**, passion
 - [LinkedIn](https://www.linkedin.com/in/amangupta-a11a672ab/)  
 - [Portfolio](https://aman-gupta-seven.vercel.app/)  
 - Email: amangupta121@gmail.com  
-- GitHub: [amangupta121](https://github.com/amangupta121)
+- GitHub: [amangupta121](https://github.com/amanbhai1)
 
 ## 📊 GitHub Stats
 
