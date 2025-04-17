@@ -65,7 +65,7 @@ I am a **MERN Stack Developer** and a **BCA student at GLA University**, passion
 
 ## 📊 GitHub Stats
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amangupta121&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanbhai1&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
